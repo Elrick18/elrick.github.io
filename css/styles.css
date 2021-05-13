@@ -1,0 +1,111 @@
+body {
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+  background-color: #a4e8e0;
+}
+.s {
+  color: grey;
+  border-radius: 20px;
+  background-color: #a4e8e0;
+  border: #2e8bc0;
+}
+
+.x {
+  position: absolute;
+  top: 330px;
+  left: 220px;
+}
+.y {
+  position: absolute;
+  left: 833px;
+  top: 230px;
+}
+.z {
+  font-family: "Dancing Script", cursive;
+  font-size: 70px;
+}
+.profile {
+  padding-top: 150px;
+}
+.skills {
+  padding-top: 50px;
+}
+.skills1 {
+  padding-top: 50px;
+  left: 0px;
+  position: absolute;
+  top: 1286px;
+}
+.skills2 {
+  padding-top: 50px;
+  right: 0px;
+  position: absolute;
+  top: 1370px;
+}
+.contact {
+  padding-top: 50px;
+}
+.contact-me {
+  padding-top: 50px;
+  position: absolute;
+  top: 1578px;
+  right: 394px;
+}
+.bottom-container {
+  position: absolute;
+  top: 2000px;
+  right: 549px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+  position: absolute;
+}
+.a:hover {
+  border-width: 7px;
+}
+
+.me {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 60px;
+  top: 30px;
+}
+.p {
+  width: 160px;
+  height: 160px;
+}
+.a {
+  left: 590px;
+  top: 1150px;
+}
+.m {
+  position: absolute;
+  left: 570px;
+  top: 1200px;
+}
+.t {
+  position: absolute;
+  left: 280px;
+  top: 1322px;
+}
+.r {
+  position: absolute;
+  left: 160px;
+  top: 1385px;
+}
+.o {
+  position: absolute;
+  top: 1413px;
+  right: 225px;
+}
+.l {
+  position: absolute;
+  right: 170px;
+  top: 1473px;
+}
